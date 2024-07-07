@@ -1,0 +1,9 @@
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_100.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_101.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_102.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_103.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_104.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_105.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_106.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_98.JPG
+C:\Users\mreda\OneDrive\Desktop\yolo_val/Images/Jelly/v_99.JPG
