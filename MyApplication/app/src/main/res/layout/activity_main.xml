@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20sp"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="126dp"
+        android:layout_gravity="center"
+        android:layout_margin="20sp"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/pro">
+
+    </ImageView>
+
+    <EditText
+        android:layout_width="370sp"
+        android:layout_height="40sp"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress">
+
+    </EditText>
+
+    <EditText
+        android:layout_width="370sp"
+        android:layout_height="40sp"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:hint="@string/password"
+        android:inputType="textPassword">
+
+    </EditText>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remember Me"
+        android:textColor="#9C27B0"
+        android:textStyle="bold"
+        android:layout_marginLeft="10sp">
+
+
+    </CheckBox>
+
+    <Button
+        android:layout_width="170sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:text="@string/login">
+
+    </Button>
+
+    <TextView
+        android:id="@+id/txt_forgetPass"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10sp"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:text="@string/forget_pass"
+        android:textColor="#673AB7"
+        android:textSize="20sp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/txt_creatAcc"
+        android:layout_width="150sp"
+        android:layout_height="20sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/create_account"
+        android:textColor="#673AB7"
+        android:textSize="15sp"
+        android:layout_margin="10sp">
+
+
+    </TextView>
+
+
+</LinearLayout>
+
+
