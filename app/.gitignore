@@ -1,1 +1,36 @@
-/build
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+/out/
+
+# Log files
+*.log
+*.log.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Generated files
+gen/
+bin/
+obj/
+
+# APK and AAB files
+*.apk
+*.aab
+
+# Keystore files (DO NOT TRACK PRIVATE KEYS)
+*.jks
+*.keystore
+
+# Local configuration files
+local.properties
