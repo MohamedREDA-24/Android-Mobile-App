@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20sp"
+    android:orientation="vertical"
+    tools:context=".SignUp_activity">
+
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="131dp"
+        android:layout_gravity="center"
+        android:contentDescription="logo"
+        android:src="@drawable/pro">
+
+    </ImageView>
+
+    <EditText
+        android:layout_width="300sp"
+        android:layout_height="46dp"
+        android:layout_gravity="center"
+        android:layout_margin="15sp"
+        android:gravity="center"
+        android:hint="@string/first_name"
+        android:inputType="textPersonName">
+
+    </EditText>
+
+    <EditText
+        android:layout_width="300sp"
+        android:layout_height="46dp"
+        android:layout_gravity="center"
+        android:layout_margin="15sp"
+        android:gravity="center"
+        android:hint="@string/last_name"
+        android:inputType="textPersonName">
+
+    </EditText>
+
+    <EditText
+        android:layout_width="300sp"
+        android:layout_height="46dp"
+        android:layout_gravity="center"
+        android:layout_margin="15sp"
+        android:gravity="center"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress">
+
+    </EditText>
+    <EditText
+        android:layout_width="300sp"
+        android:layout_height="46dp"
+        android:layout_gravity="center"
+        android:layout_margin="15sp"
+        android:gravity="center"
+        android:hint="@string/password"
+        android:inputType="textPassword">
+
+    </EditText>
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="200sp"
+        android:layout_height="45sp"
+        android:layout_gravity="center"
+        android:text="Sign Up">
+
+    </Button>
+
+</LinearLayout>
+
+

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Please Enter your Email</string>
+    <string name="password">Please Enter Your Password</string>
+    <string name="login">login</string>
+    <string name="create_account">Create an Account?</string>
+    <string name="forget_pass">Forget Password?</string>
+    <string name="first_name">Enter Your First Name</string>
+    <string name="logo">logo</string>
+    <string name="last_name">Enter your Last Name</string>
+    <string name="phone">Enter your Phone Number</string>
+    <string name="reset_link">If You Forgot Your Password Please Enter Your Email and We will send you resetting password Link</string>
+    <string name="ProMusic">Pro Music</string>
+    <string name="sendLink">Send Link</string>
+</resources>
